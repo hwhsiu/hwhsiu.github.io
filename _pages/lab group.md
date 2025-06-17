@@ -2,12 +2,7 @@
 title: "💡 Principal Investigator"
 permalink: /lab group/
 ---
-
-**Wei-Hsiu Hu (胡瑋秀), Ph.D.**  
-
-Assistant Professor  
-Department of Civil Engineering, National Taiwan University  
-
+Wei-Hsiu Hu (胡瑋秀), Ph.D.  
 
 ---
 
