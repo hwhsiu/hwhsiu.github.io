@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
@@ -32,5 +32,27 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
+<hr>
 
+<h2>Peer Review Activities</h2>
+<p>Served as a reviewer for the following journals:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Journal Name</th>
+      <th>Reviewed Manuscripts</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for journal in site.data.review.journals %}
+    <tr>
+      <td>{{ journal.name }}</td>
+      <td>{{ journal.count }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<p><em>Last updated: {{ site.data.review.last_updated }}</em></p>
 

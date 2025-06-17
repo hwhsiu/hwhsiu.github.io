@@ -14,8 +14,8 @@ main:
   - title: "Lab Group"
     url: /lab group/   
 
-  - title: "Peer Review"
-    url: /peer review/
+  #- title: "Peer Review"
+  #  url: /peer review/
 
   - title: "Project"
     url: /project/
