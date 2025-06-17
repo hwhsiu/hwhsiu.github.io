@@ -12,16 +12,18 @@ main:
     url: /publications/
 
   - title: "Lab Group"
-    url: /lab group/    
+    url: /lab group/   
+
+  - title: "Peer Review"
+    url: /peer review/
+
+  - title: "Project"
+    url: /project/
 
   - title: "Teaching"
     url: /teaching/    
-    
-  #- title: "Portfolio"
-  #  url: /portfolio/
-        
-  #- title: "Blog Posts"
-  #  url: /year-archive/
+            
+  
     
   - title: "CV"
     url: /cv/
