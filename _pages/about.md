@@ -19,7 +19,7 @@ Research Expertises:
 
 Contact
 -----
-<img src="/images/contact.png" width="60%" alt="Contact Info">
+<img src="/images/contact.png" width="40%" alt="Contact Info2">
 
 
 For more info
