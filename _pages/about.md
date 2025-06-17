@@ -46,4 +46,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about Publications can be found in [Publications](https://hwhsiu.github.io/publications/), and you can always find our group members in [Members](https://hwhsiu.github.io/members/). Always feel free to contact: hwhsiu@ntu.edu.tw; +886-2-3366-4278.
