@@ -11,7 +11,7 @@ The AM-RL addresses critical challenges in infrastructure, hazard mitigation, an
 
 For more info
 ------
-More info can be found in [Publications](https://hwhsiu.github.io/publications/),  our group members in [Lab-Group](https://hwhsiu.github.io/lab group/). Always feel free to contact: hwhsiu@ntu.edu.tw; +886-2-3366-4278.
+More info can be found in [Publications](https://hwhsiu.github.io/publications/) and [Lab-Group](https://hwhsiu.github.io/lab group/).
 
 Contact
 -----
