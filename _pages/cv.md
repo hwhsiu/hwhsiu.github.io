@@ -32,7 +32,7 @@ redirect_from:
 
 ---  
 # HONORS & AWARDS
-- **First Prize in IDEERS 2024 Tainan (2024 抗震盃台南場 首獎)**, _Advisor_, NCREE, 2024
+- **First Prize in IDEERS 2024 Tainan (2024 抗震盃台南場 首獎)**, Advisor, NCREE, 2024
 - **Government Scholarship to Study Abroad**, Taiwan Ministry of Education, 2022 
 - **Rackham Conference Travel Grant**, University of Michigan, Ann Arbor,	2021
 - **College Student Research Scholarship**, Ministry of Science and Technology of Taiwan, 2016
