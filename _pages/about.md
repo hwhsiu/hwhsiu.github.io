@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "WEIHSIU/AM-RL"
+title: "Advanced Materials Research Laboratory (AM-RL)"
 author_profile: true
 redirect_from: 
   - /about/
