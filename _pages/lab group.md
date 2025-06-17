@@ -1,5 +1,5 @@
 ---
-title: "Principal Investigator"
+title: "💡 Principal Investigator"
 permalink: /lab group/
 ---
 
@@ -8,10 +8,6 @@ permalink: /lab group/
 Assistant Professor  
 Department of Civil Engineering, National Taiwan University  
 
-Research interests:
-- Engineered Cementitious Composites (ECC)
-- Carbon Sequestration
-- Sustainable Low-carbon Materials
 
 ---
 
@@ -19,12 +15,12 @@ Research interests:
 
 | Name              | Degree        | Entry Year |
 |-------------------|---------------|------------|
-| Chen, Li-Yun      | M.S. Student  | 2024       |
-| Wang, Ming-Chieh  | M.S. Student  | 2024       |
-| Zhao, Ting-Yu     | M.S. Student  | 2024       |
-| Chen, Li-Yun      | M.S. Student  | 2025       |
-| Wang, Ming-Chieh  | M.S. Student  | 2025       |
-| Zhao, Ting-Yu     | M.S. Student  | 2025       |
+| Chun, Chia-Ying (鍾佳穎)      | M.S. Student  | 2024       |
+| Lu, Yi-Cheng (呂詣承) | M.S. Student  | 2024       |
+| Awanda Nur Pratiwi     | M.S. Student  | 2024       |
+| (林愛芸)      | M.S. Student  | 2025       |
+| (杜晉安)  | M.S. Student  | 2025       |
+| (李旼憲)     | M.S. Student  | 2025       |
 
 ---
 
