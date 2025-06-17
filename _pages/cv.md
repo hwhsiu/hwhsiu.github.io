@@ -16,6 +16,27 @@ redirect_from:
 * B.S. in Civil Engineering, National Taiwan University, 2016
 
 ---
+# RESEARCH INTEREST
+- Fiber Reinforced Cementitious Composites
+- Carbon Sequestration
+- Sustainable Low-carbon Materials 
+
+---
+# RESEARCH PROJECTS
+- **Optimization of carbon sequestration in Engineered Cementitious Composites (ECC)**, PI, funded by the National Science and Technology Council (NSTC), 2024/08-2025/07
+  **國科會，高延性纖維增強水泥基複合材料之碳封存效率改進研究，計畫主持人**
+- **Assessment and Implementation Strategy for a Novel CO₂-Bearing Concrete Additive**, Co-PI, funded by the Taiwan Construction Research Institute (TCRI) and Oriental Union Chemical Corp. (OUCC), 2024/12-2025/11
+  **營建院與東聯化工，新型含二氧化碳混凝土添加劑之性能驗證及推廣計畫，共同主持人**
+
+---  
+# HONORS & AWARDS
+- **First Prize in IDEERS 2024 Tainan (2024 抗震盃台南場 首獎)**, _Advisor_, NCREE, 2024
+- **Government Scholarship to Study Abroad**, Taiwan Ministry of Education, 2022 
+- **Rackham Conference Travel Grant**, University of Michigan, Ann Arbor,	2021
+- **College Student Research Scholarship**, Ministry of Science and Technology of Taiwan, 2016
+- **Dean’s List Award**, National Taiwan University, 2013
+
+---
 # RESEARCH EXPERIENCE & EMPLOYMENT
 - **University of Michigan, Department of Civil Engineering, United States**
   - _Graduate Teaching Assistant, Civil Engineering Materials_
@@ -37,10 +58,3 @@ redirect_from:
 - **National Center for Research on Earthquake Engineering, Taiwan**
   - _Research Assistant, Nuclear Energy Research Project: Structure Durability Test_
     - Evaluated the durability of the concrete component materials in nuclear power plants I & II.
-
----  
-# HONORS & AWARDS
-- **Government Scholarship to Study Abroad**, Taiwan Ministry of Education, 2022 
-- **Rackham Conference Travel Grant**, University of Michigan, Ann Arbor,	2021
-- **College Student Research Scholarship**, Ministry of Science and Technology of Taiwan, 2016
-- **Dean’s List Award**, National Taiwan University, 2013

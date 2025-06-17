@@ -17,8 +17,8 @@ main:
   #- title: "Peer Review"
   #  url: /peer review/
 
-  - title: "Project"
-    url: /project/
+  #- title: "Project"
+  #  url: /project/
 
   - title: "Teachings"
     url: /teachings/    
