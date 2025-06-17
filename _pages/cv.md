@@ -10,14 +10,13 @@ redirect_from:
 {% include base_path %}
 
 
-======
+
 * Ph.D. in Civil Engineering, University of Michigan, 2023
 * M.S. in Civil Engineering, National Taiwan University, 2018
 * B.S. in Civil Engineering, National Taiwan University, 2016
 
 ---
-RESEARCH EXPERIENCE & EMPLOYMENT
-======
+# RESEARCH EXPERIENCE & EMPLOYMENT
 - **University of Michigan, Department of Civil Engineering, United States**
   - _Graduate Teaching Assistant, Civil Engineering Materials_
     - Held in-person & online hybrid lab sessions for students. 4.9/5.0 for TA evaluation in term teaching assessment.
@@ -40,8 +39,7 @@ RESEARCH EXPERIENCE & EMPLOYMENT
     - Evaluated the durability of the concrete component materials in nuclear power plants I & II.
 
 ---  
-HONORS & AWARDS
-======
+# HONORS & AWARDS
 - **Government Scholarship to Study Abroad**, Taiwan Ministry of Education, 2022 
 - **Rackham Conference Travel Grant**, University of Michigan, Ann Arbor,	2021
 - **College Student Research Scholarship**, Ministry of Science and Technology of Taiwan, 2016
