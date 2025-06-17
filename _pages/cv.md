@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "EDUCATION"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-EDUCATION
+
 ======
 * Ph.D. in Civil Engineering, University of Michigan, 2023
 * M.S. in Civil Engineering, National Taiwan University, 2018
 * B.S. in Civil Engineering, National Taiwan University, 2016
 
+---
 RESEARCH EXPERIENCE & EMPLOYMENT
 ======
 - **University of Michigan, Department of Civil Engineering, United States**
@@ -33,11 +34,12 @@ RESEARCH EXPERIENCE & EMPLOYMENT
     -	Led model assembling projects. Got best tutor awards voted by students.
   - _Research Assistant, Lanyu Airport Runway Renovation Project_
     - Investigated mechanical properties of Calcium Sulfo-Aluminate concrete.
-    
+
 - **National Center for Research on Earthquake Engineering, Taiwan**
   - _Research Assistant, Nuclear Energy Research Project: Structure Durability Test09/2016 – 09/2017_
     - Evaluated the durability of the concrete component materials in nuclear power plants I & II.
-  
+
+---  
 HONORS & AWARDS
 ======
 - **Government Scholarship to Study Abroad**, Taiwan Ministry of Education, 2022 
