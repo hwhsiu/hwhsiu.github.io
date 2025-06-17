@@ -15,4 +15,4 @@ More info can be found in [Publications](https://hwhsiu.github.io/publications/)
 
 Contact
 -----
-![Info](/images/contact.png)
+![Info](/images/contact2.png)
