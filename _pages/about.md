@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-The AM-RL addresses critical challenges in infrastructure, hazard mitigation, and environmental sustainability through advanced materials technology. At its core is micromechanics-based designed ECC. Innovating low-carbon, sustainable materials with enhanced durability via waste CO2 utilization.
+The AM-RL focuses on material-based solutions for challenges in infrastructure performance, hazard mitigation, and environmental sustainability. The core of our research lies in the micromechanics-based design of Engineered Cementitious Composites (ECC), which exhibit high ductility and crack control capabilities.
+
+We are particularly interested in developing low-carbon and durable materials by utilizing waste CO₂, aiming to improve long-term performance while contributing to carbon reduction. Our work bridges material science and engineering needs, with an emphasis on practical applications and environmental responsibility.
 
 Research Expertises:
 -----
