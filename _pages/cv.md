@@ -36,33 +36,9 @@ RESEARCH EXPERIENCE & EMPLOYMENT
   - _Research Assistant, Nuclear Energy Research Project: Structure Durability Test09/2016 – 09/2017_
     - Evaluated the durability of the concrete component materials in nuclear power plants I & II.
   
-Skills
+HONORS & AWARDS
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- Government Scholarship to Study Abroad, Taiwan Ministry of Education, 2022 
+- Rackham Conference Travel Grant, University of Michigan, Ann Arbor	2021
+- College Student Research Scholarship, Ministry of Science and Technology of Taiwan, 2016
+- Dean’s List Award, National Taiwan University, 2013
