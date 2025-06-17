@@ -46,4 +46,4 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about Publications can be found in [Publications](https://hwhsiu.github.io/publications/), and you can always find our group members in [Members](https://hwhsiu.github.io/members/). Always feel free to contact: hwhsiu@ntu.edu.tw; +886-2-3366-4278.
+More info about Publications can be found in [Publications](https://hwhsiu.github.io/publications/), and you can always find our group members in [Lab group](https://hwhsiu.github.io/lab group/). Always feel free to contact: hwhsiu@ntu.edu.tw; +886-2-3366-4278.
