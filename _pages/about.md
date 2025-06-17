@@ -26,4 +26,4 @@ Contact
 
 For more info
 ------
-More info can be found in [Publications](https://hwhsiu.github.io/publications/), [Lab-Group](https://hwhsiu.github.io/lab group/), [Teaching](https://hwhsiu.github.io/teaching/) ,and [CV](https://hwhsiu.github.io/CV/)
+More info can be found in [Publications](https://hwhsiu.github.io/publications/), [Lab-Group](https://hwhsiu.github.io/lab group/), [Teachings](https://hwhsiu.github.io/teachings/) ,and [CV](https://hwhsiu.github.io/CV/)

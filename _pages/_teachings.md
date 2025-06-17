@@ -1,5 +1,5 @@
 ---
 title: "Courses"
-permalink: /teaching/
+permalink: /teachings/
 ---
 # Fall Term 
