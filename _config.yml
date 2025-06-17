@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "AM-RL"
+title                    : " NTU / AM-RL "
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "hwhsius/hwhsiu.github.io"
 author:
   # Biographic information
   avatar           : "Bio.png"
-  name             : "Ph.D. WEIHSIU HU"
+  name             : "Ph.D. WEI-HSIU HU"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor; Department of Civil Engineering"
   location         : "Taipei, Taiwan"
-  employer         : "National Taiwan University (NTU)"
+  employer         : "National Taiwan University"
   uri              : # URL
-  email            : "hwhsiu@ntu.edu.tw" 
+  email            : hwhsiu@ntu.edu.tw 
 
   # Academic websites
   academia         : # URL
