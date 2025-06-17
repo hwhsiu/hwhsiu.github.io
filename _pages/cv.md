@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -24,7 +24,7 @@ RESEARCH EXPERIENCE & EMPLOYMENT
     - Developed sustainable low-carbon emissions engineered cementitious composites (ECC) with superior mechanical properties to traditional concrete.
   - _Graduate Research Assistant, Sustainable Subsurface Energy Technologies Lab_
     - Optimized carbonation-curing process for batch-scale and large-scale specimens.
-* National Taiwan University, Department of Civil Engineering, Taiwan
+**National Taiwan University, Department of Civil Engineering, Taiwan**
   - _Full-Time Teaching Assistant_
     - Tutor Civil Engineering courses, including Physical Model Design Lab, Civil Engineering Capstone Challenge, Conceptual Design Studio, Surveying, and Structural Engineering & Fluid Mechanics Lab.
   - _Graduate Teaching Assistant_
@@ -32,13 +32,13 @@ RESEARCH EXPERIENCE & EMPLOYMENT
     -	Led model assembling projects. Got best tutor awards voted by students.
   - _Research Assistant, Lanyu Airport Runway Renovation Project_
     - Investigated mechanical properties of Calcium Sulfo-Aluminate concrete.
-* National Center for Research on Earthquake Engineering, Taiwan
+**National Center for Research on Earthquake Engineering, Taiwan**
   - _Research Assistant, Nuclear Energy Research Project: Structure Durability Test09/2016 – 09/2017_
     - Evaluated the durability of the concrete component materials in nuclear power plants I & II.
   
 HONORS & AWARDS
 ======
-- Government Scholarship to Study Abroad, Taiwan Ministry of Education, 2022 
-- Rackham Conference Travel Grant, University of Michigan, Ann Arbor	2021
-- College Student Research Scholarship, Ministry of Science and Technology of Taiwan, 2016
-- Dean’s List Award, National Taiwan University, 2013
+- **Government Scholarship to Study Abroad**, Taiwan Ministry of Education, 2022 
+- **Rackham Conference Travel Grant**, University of Michigan, Ann Arbor,	2021
+- **College Student Research Scholarship**, Ministry of Science and Technology of Taiwan, 2016
+- **Dean’s List Award**, National Taiwan University, 2013

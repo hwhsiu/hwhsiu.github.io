@@ -1,12 +1,12 @@
 ---
-title: "💡 Principal Investigator"
+title: "Principal Investigator"
 permalink: /lab group/
 ---
 Wei-Hsiu Hu (胡瑋秀), Ph.D.  
 
 ---
 
-# 👨‍🎓 Current Students
+# Current Students
 
 | Name              | Degree        | Entry Year |
 |-------------------|---------------|------------|
@@ -19,7 +19,7 @@ Wei-Hsiu Hu (胡瑋秀), Ph.D.
 
 ---
 
-# 🎓 Former Members
+# Former Members
 
 | Name             | Degree Completed |    Year   |
 |------------------|------------------|-----------|
