@@ -35,7 +35,7 @@ redirect_from:
     - Investigated mechanical properties of Calcium Sulfo-Aluminate concrete.
 
 - **National Center for Research on Earthquake Engineering, Taiwan**
-  - _Research Assistant, Nuclear Energy Research Project: Structure Durability Test09/2016 – 09/2017_
+  - _Research Assistant, Nuclear Energy Research Project: Structure Durability Test_
     - Evaluated the durability of the concrete component materials in nuclear power plants I & II.
 
 ---  
