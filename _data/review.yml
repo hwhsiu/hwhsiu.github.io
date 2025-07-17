@@ -1,12 +1,14 @@
-last_updated: 2025-06
+last_updated: 2025-07
 journals:
   - name: Construction & building materials
-    count: 3
+    count: 4
   - name: Results in engineering
     count: 3
   - name: Surfaces and interfaces
     count: 2
   - name: Sustainable chemistry and pharmacy
     count: 1
+  - name: Journal of building engineering
+    count: 1  
   - name: Thin-walled structures
     count: 1  
