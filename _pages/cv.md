@@ -23,12 +23,15 @@ redirect_from:
 
 ---
 # RESEARCH PROJECTS
+- **Development of near-zero low-carbon Engineered Cementitious Composites (ECC)**, 2025/08-2027/07,  
+  PI, funded by the National Science and Technology Council (NSTC).  
+  國科會，近零低碳高延性纖維增強水泥基複合材料之開發研究，計畫主持人
 - **Optimization of carbon sequestration in Engineered Cementitious Composites (ECC)**, 2024/08-2025/07,  
   PI, funded by the National Science and Technology Council (NSTC).  
   國科會，高延性纖維增強水泥基複合材料之碳封存效率改進研究，計畫主持人
 - **Assessment and Implementation Strategy for a Novel CO₂-Bearing Concrete Additive**, 2024/12-2025/11,  
   Co-PI, funded by the Taiwan Construction Research Institute (TCRI) and Oriental Union Chemical Corp. (OUCC).  
-  營建院與東聯化工，新型含二氧化碳混凝土添加劑之性能驗證及推廣計畫，共同主持人
+  營建院與東聯化工，新型含二氧化碳混凝土添加劑之性能驗證及推廣計畫，協同主持人
 
 ---  
 # HONORS & AWARDS
