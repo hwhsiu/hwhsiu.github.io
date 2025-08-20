@@ -38,6 +38,7 @@ redirect_from:
 - **First Prize in IDEERS 2024 Tainan (2024 抗震盃台南場 首獎)**, Advisor, NCREE, 2024
 - **Government Scholarship to Study Abroad**, Taiwan Ministry of Education, 2022 
 - **Rackham Conference Travel Grant**, University of Michigan, Ann Arbor,	2021
+- **Best Paper Award in Structural Engineering**, Chinese Society of Structural Engineering, 2020
 - **College Student Research Scholarship**, Ministry of Science and Technology of Taiwan, 2016
 - **Dean’s List Award**, National Taiwan University, 2013
 
