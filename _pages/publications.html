@@ -37,7 +37,27 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
-<hr>
+ <h1>Peer Review Activities</h1>
+<p>Served as a reviewer for the following journals:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Journal Name</th>
+      <th>Reviewed Manuscripts</th>
+    </tr>
+  </thead>
+  <tbody>
+    {% for journal in site.data.review.journals %}
+    <tr>
+      <td>{{ journal.name }}</td>
+      <td>{{ journal.count }}</td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
+
+<p><em>Last updated: {{ site.data.review.last_updated }}</em></p>
 
 <h2>Conference Papers</h2>
 
@@ -92,27 +112,6 @@ author_profile: true
   </div>
 
 </div>
-<hr>
 
-<h1>Peer Review Activities</h1>
-<p>Served as a reviewer for the following journals:</p>
 
-<table>
-  <thead>
-    <tr>
-      <th>Journal Name</th>
-      <th>Reviewed Manuscripts</th>
-    </tr>
-  </thead>
-  <tbody>
-    {% for journal in site.data.review.journals %}
-    <tr>
-      <td>{{ journal.name }}</td>
-      <td>{{ journal.count }}</td>
-    </tr>
-    {% endfor %}
-  </tbody>
-</table>
-
-<p><em>Last updated: {{ site.data.review.last_updated }}</em></p>
 
