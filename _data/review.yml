@@ -1,9 +1,9 @@
-last_updated: 2025-10
+last_updated: 2025-12
 journals:
+  - name: Journal of building engineering
+    count: 6
   - name: Construction & building materials
     count: 5
-  - name: Journal of building engineering
-    count: 4 
   - name: Results in engineering
     count: 3
   - name: Surfaces and interfaces
@@ -12,3 +12,7 @@ journals:
     count: 1
   - name: Thin-walled structures
     count: 1  
+  - name: Ocean engineering
+    count: 1 
+  - name: Cleaner Waste Systems
+    count: 1 

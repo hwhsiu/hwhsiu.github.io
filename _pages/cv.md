@@ -40,6 +40,13 @@ redirect_from:
 - **College Student Research Scholarship**, Ministry of Science and Technology of Taiwan, 2016
 - **Dean’s List Award**, National Taiwan University, 2013
 
+---  
+# Academic and Community Service 
+- **Committee Chair, Carbon Sequestration Technology Committee for Cement and Concrete, Taiwan Concrete Institute (TCI)**, since 2025
+  臺灣混凝土學會，水泥混凝土固碳技術委員會，主任委員
+- **Member, Sustainable Infrastructure Research Center (SIRC), NTUCE**, since 2024
+  臺灣大學土木系，永續基礎建設研究中心，成員
+
 ---
 # RESEARCH EXPERIENCE & EMPLOYMENT
 - **University of Michigan, Department of Civil Engineering, United States**
