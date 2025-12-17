@@ -42,9 +42,9 @@ redirect_from:
 
 ---  
 # Academic and Community Service 
-- **Committee Chair, Carbon Sequestration Technology Committee for Cement and Concrete, Taiwan Concrete Institute (TCI)**, since 2025
+- **Committee Chair, Carbon Sequestration Technology Committee for Cement and Concrete, Taiwan Concrete Institute (TCI)**, since 2025,
   臺灣混凝土學會，水泥混凝土固碳技術委員會，主任委員
-- **Member, Sustainable Infrastructure Research Center (SIRC), NTUCE**, since 2024
+- **Member, Sustainable Infrastructure Research Center (SIRC), NTUCE**, since 2024,
   臺灣大學土木系，永續基礎建設研究中心，成員
 
 ---
