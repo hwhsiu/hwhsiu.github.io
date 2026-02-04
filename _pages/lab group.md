@@ -16,7 +16,11 @@ Wei-Hsiu Hu (胡瑋秀), Ph.D.
 | Du, Jin-An (杜晉安)  | M.S. Student  | 2025       |
 | Li, Min-Hsieh (李旼憲)     | M.S. Student  | 2025       |
 | Yen, Hung-Hsiu (嚴弘修)     | M.S. Student  | 2025       |
-
+| Hoàng, Vũ Viet    | M.S. Student  | 2025       |
+| Kuo, Yi Kuan (郭奕寬)      | M.S. Student  | 2026       |
+| Su, Wei Chuan (蘇威銓)  | M.S. Student  | 2026       |
+| Tseng, Yu Huan (曾禹桓)     | M.S. Student  | 2026       |
+| Yeh, Yi Ting (葉怡葶)     | M.S. Student  | 2026      |
 ---
 
 # Former Members
