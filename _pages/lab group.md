@@ -21,6 +21,7 @@ Wei-Hsiu Hu (胡瑋秀), Ph.D.
 | Su, Wei Chuan (蘇威銓)  | M.S. Student  | 2026       |
 | Tseng, Yu Huan (曾禹桓)     | M.S. Student  | 2026       |
 | Yeh, Yi Ting (葉怡葶)     | M.S. Student  | 2026      |
+
 ---
 
 # Former Members
