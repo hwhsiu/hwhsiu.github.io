@@ -10,7 +10,7 @@ Wei-Hsiu Hu (胡瑋秀), Ph.D.
 
 | Name              | Degree        | Entry Year |
 |-------------------|---------------|------------|
-| Chun, Chia-Ying (鍾佳穎)      | M.S. Student  | 2024       |
+| Chung, Chia-Ying (鍾佳穎)      | M.S. Student  | 2024       |
 | Lu, Yi-Cheng (呂詣承) | M.S. Student  | 2024       |
 | Lin, Ai-Yun (林愛芸)      | M.S. Student  | 2025       |
 | Du, Jin-An (杜晉安)  | M.S. Student  | 2025       |

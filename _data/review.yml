@@ -1,7 +1,7 @@
-last_updated: 2026-02
+last_updated: 2026-04
 journals:
   - name: Journal of building engineering
-    count: 6
+    count: 7
   - name: Construction & building materials
     count: 6
   - name: Results in engineering
@@ -17,4 +17,6 @@ journals:
   - name: Ocean engineering
     count: 1 
   - name: Cleaner Waste Systems
+    count: 1 
+  - name: European journal of environmental and civil engineering
     count: 1 
