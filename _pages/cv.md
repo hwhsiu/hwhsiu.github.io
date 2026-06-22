@@ -33,6 +33,7 @@ redirect_from:
 
 ---  
 # HONORS & AWARDS
+- **Outstanding Teaching Award (114年度教學優良獎)**, National Taiwan University, 2026
 - **First Prize in IDEERS 2024 Tainan (2024 抗震盃台南場 首獎)**, Advisor, NCREE, 2024
 - **Government Scholarship to Study Abroad**, Taiwan Ministry of Education, 2022 
 - **Rackham Conference Travel Grant**, University of Michigan, Ann Arbor,	2021
