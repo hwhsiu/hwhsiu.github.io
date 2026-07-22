@@ -1,17 +1,17 @@
-last_updated: 2026-06-22
+last_updated: 2026-07-22
 journals:
   - name: Journal of building engineering
-    count: 14
+    count: 15
   - name: Construction & building materials
-    count: 7
+    count: 8
   - name: Results in engineering
+    count: 3
+  - name: European journal of environmental and civil engineering
     count: 3
   - name: Surfaces and interfaces
     count: 2
   - name: Journal of Applied Science and Engineering
     count: 2
-  - name: European journal of environmental and civil engineering
-    count: 2 
   - name: Ocean engineering
     count: 2
   - name: Sustainable chemistry and pharmacy
@@ -23,4 +23,8 @@ journals:
   - name: Journal of Materials in Civil Engineering
     count: 1 
   - name: Structures
+    count: 1 
+  - name: Scientific Reports
+    count: 1 
+  - name: KSCE Journal of Civil Engineering
     count: 1 
