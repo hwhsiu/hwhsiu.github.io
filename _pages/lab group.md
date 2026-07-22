@@ -8,25 +8,27 @@ Wei-Hsiu Hu (胡瑋秀), Ph.D.
 
 # Current Students
 
-| Name              | Degree        | Year |
-|-------------------|---------------|------------|
-| Lin, Ai-Yun (林愛芸)      | M.S. Student  | 2025-       |
-| Du, Jin-An (杜晉安)  | M.S. Student  | 2025-       |
-| Li, Min-Hsieh (李旼憲)     | M.S. Student  | 2025-       |
-| Kuo, Yi Kuan (郭奕寬)      | M.S. Student  | 2026-       |
-| Su, Wei Chuan (蘇威銓)  | M.S. Student  | 2026-       |
-| Tseng, Yu Huan (曾禹桓)     | M.S. Student  | 2026-       |
-| Yeh, Yi Ting (葉怡葶)     | M.S. Student  | 2026-      |
-| Yen, Hung-Hsiu (嚴弘修)     | M.S. Student  | 2026-      |
+| Name | Degree | Year |
+| --- | --- | --- |
+| Lin, Ai-Yun (林愛芸) | M.S. Student | 2025- |
+| Du, Jin-An (杜晉安) | M.S. Student | 2025- |
+| Li, Min-Hsieh (李旼憲) | M.S. Student | 2025- |
+| Kuo, Yi Kuan (郭奕寬) | M.S. Student | 2026- |
+| Su, Wei Chuan (蘇威銓) | M.S. Student | 2026- |
+| Tseng, Yu Huan (曾禹桓) | M.S. Student | 2026- |
+| Yeh, Yi Ting (葉怡葶) | M.S. Student | 2026- |
+| Yen, Hung-Hsiu (嚴弘修) | M.S. Student | 2026- |
+
 ---
 
 # Former Members
 
-| Name             | Degree Completed |    Year   |
-|------------------|------------------|-----------|
-| Chung, Chia-Ying (鍾佳穎)      | M.S.             | 2024-2026 |
-| Lu, Yi-Cheng (呂詣承)      | M.S.             | 2024-2026 |
-| Hoàng, Vũ Viet (武越煌)      | M.S.             | 2024-2026 |
+| Name | Degree Completed | Year |
+| --- | --- | --- |
+| Chung, Chia-Ying (鍾佳穎) | M.S. | 2024-2026 |
+| Lu, Yi-Cheng (呂詣承) | M.S. | 2024-2026 |
+| Hoàng, Vũ Viet (武越煌) | M.S. | 2024-2026 |
+
 ---
 
 <!--# 📷 Group Photos
