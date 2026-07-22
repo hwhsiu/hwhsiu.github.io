@@ -24,17 +24,13 @@ redirect_from:
 ---
 # RESEARCH PROJECTS
 - **Experimental Research on Optimized Material Development, Performance Verification, and Prestressed I-Girder Design of Ultra-High Performance Concrete (UHPC) in Taiwan**, 
-  2026/08-2029/07, Co-PI, funded by the National Science and Technology Council (NSTC).
-  國科會，台灣超高性能混凝土(UHPC)之最佳化材料研發、性能驗證建立及預力I型梁設計實驗研究，共同主持人
+  <br>2026/08-2029/07, Co-PI, funded by the National Science and Technology Council (NSTC).<br>國科會，台灣超高性能混凝土(UHPC)之最佳化材料研發、性能驗證建立及預力I型梁設計實驗研究，共同主持人
 - **Development of near-zero low-carbon Engineered Cementitious Composites (ECC)**,
-  2025/08-2027/07, PI, funded by the National Science and Technology Council (NSTC).  
-  國科會，近零低碳高延性纖維增強水泥基複合材料之開發研究，計畫主持人
+  <br>2025/08-2027/07, PI, funded by the National Science and Technology Council (NSTC).<br>國科會，近零低碳高延性纖維增強水泥基複合材料之開發研究，計畫主持人
 - **Optimization of carbon sequestration in Engineered Cementitious Composites (ECC)**, 
-  2024/08-2025/07, PI, funded by the National Science and Technology Council (NSTC).  
-  國科會，高延性纖維增強水泥基複合材料之碳封存效率改進研究，計畫主持人
+  <br>2024/08-2025/07, PI, funded by the National Science and Technology Council (NSTC).<br>國科會，高延性纖維增強水泥基複合材料之碳封存效率改進研究，計畫主持人
 - **Volume Stability of Engineered Cementitious Composites (ECC) Incorporating Pre-Carbonated Basic Oxygen Furnace Slag (BOFS)**, 
-  2026/07-2027/02, Advisor, funded by the National Science and Technology Council (NSTC).  
-  國科會，預碳化轉爐石應用於超高延性水泥基複合材料之體積穩定性研究，大專生計畫(指導教授)
+  <br>2026/07-2027/02, Advisor, funded by the National Science and Technology Council (NSTC).<br>國科會，預碳化轉爐石應用於超高延性水泥基複合材料之體積穩定性研究，大專生計畫(指導教授)
 
 ---  
 # HONORS & AWARDS
