@@ -14,6 +14,8 @@ journals:
     count: 2
   - name: Ocean engineering
     count: 2
+  - name: Structures
+    count: 2   
   - name: Sustainable chemistry and pharmacy
     count: 1
   - name: Thin-walled structures
@@ -22,9 +24,9 @@ journals:
     count: 1 
   - name: Journal of Materials in Civil Engineering
     count: 1 
-  - name: Structures
-    count: 1 
   - name: Scientific Reports
     count: 1 
   - name: KSCE Journal of Civil Engineering
     count: 1 
+  - name: International Journal of Greenhouse Gas Control
+    count: 1
