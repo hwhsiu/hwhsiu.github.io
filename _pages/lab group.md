@@ -6,19 +6,19 @@ Wei-Hsiu Hu (胡瑋秀), Ph.D.
 
 ---
 
-# Current Students
+# Current R.A./Ph.D./M.S.
 
 | Name | Degree | Year |
 | --- | --- | --- |
-| Lin, Ai-Yun (林愛芸) | M.S. Student | 2025- |
-| Du, Jin-An (杜晉安) | M.S. Student | 2025- |
-| Li, Min-Hsieh (李旼憲) | M.S. Student | 2025- |
+| Chung, Chia-Ying (鍾佳穎) | R.A. | 2026- |
 | Kuo, Yi Kuan (郭奕寬) | M.S. Student | 2026- |
 | Su, Wei Chuan (蘇威銓) | M.S. Student | 2026- |
 | Tseng, Yu Huan (曾禹桓) | M.S. Student | 2026- |
 | Yeh, Yi Ting (葉怡葶) | M.S. Student | 2026- |
 | Yen, Hung-Hsiu (嚴弘修) | M.S. Student | 2026- |
-
+| Lin, Ai-Yun (林愛芸) | M.S. Student | 2025- |
+| Du, Jin-An (杜晉安) | M.S. Student | 2025- |
+| Li, Min-Hsieh (李旼憲) | M.S. Student | 2025- |
 ---
 
 # Former Members
