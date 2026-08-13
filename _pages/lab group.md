@@ -19,6 +19,7 @@ Wei-Hsiu Hu (胡瑋秀), Ph.D.
 | Lin, Ai-Yun (林愛芸) | M.S. Student | 2025- |
 | Du, Jin-An (杜晉安) | M.S. Student | 2025- |
 | Li, Min-Hsieh (李旼憲) | M.S. Student | 2025- |
+
 ---
 
 # Former Members
