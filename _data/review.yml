@@ -1,9 +1,11 @@
-last_updated: 2026-10-19
+last_updated: 2026-11-01
 journals:
   - name: Journal of building engineering
     count: 17
   - name: Construction & building materials
-    count: 10
+    count: 11
+  - name: Structures
+    count: 3 
   - name: Results in engineering
     count: 3
   - name: European journal of environmental and civil engineering
@@ -16,8 +18,6 @@ journals:
     count: 2
   - name: Ocean engineering
     count: 2
-  - name: Structures
-    count: 2   
   - name: Sustainable chemistry and pharmacy
     count: 1
   - name: Thin-walled structures
